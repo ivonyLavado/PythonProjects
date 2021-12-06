@@ -1,3 +1,3 @@
 # PythonProjects
-Beginner Python Projects
+Beginner Python Projects:
 Rock, Paper, Scissors
